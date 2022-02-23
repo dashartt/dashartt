@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Jonatas.</h2>
+<h2> Hey there! I'm Jonatas.  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <img width="35%" align="right" alt="Development" src="https://static.wixstatic.com/media/fbdd80_5784b689bf4b4fb68c41d154bd60fd09~mv2.gif" />
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -34,7 +34,7 @@
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasqueirozlima&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasqueirozlima&theme=buefy&layout=compact" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasqueirozlima&theme=buefy&layout=compact" /> -->
 </a>
 
 <br/>
