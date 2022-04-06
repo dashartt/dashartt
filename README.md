@@ -25,11 +25,12 @@
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) <br>
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-<!--   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->  
+  
+  - Aprendendo no momento -> <br>  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-%23E33332?style=for-the-badge&logo=mysql-library&logoColor=white)
 <br/>
+  
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasqueirozlima&theme=buefy&show_icons=true" />
