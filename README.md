@@ -26,7 +26,7 @@
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
   
-  - Aprendendo no momento -> <br>  
+  - Aprendendo no momento ->   
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-%23E33332?style=for-the-badge&logo=mysql-library&logoColor=white)
 <br/>
