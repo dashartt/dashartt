@@ -14,11 +14,11 @@
 Ferramentas <br>
 - Ubuntu, Git, Github, VSCode, Trello, HTML, CSS, JS
   
-Bibliotecas e Frameworks <br>
-- React, Redux, Jest, RTL
+<!-- Bibliotecas e Frameworks <br>
+- React, Redux, Jest, RTL -->
   
 Aprendendo no momento   
-- Docker, Mysql, Express, Node
+- Docker, Mysql, Express, Node, Sequelize
 <br/>
   
 
