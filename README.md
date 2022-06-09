@@ -1,35 +1,28 @@
-<h2> Olá, sou o Jonatas. Prazer ver você por aqui </h2> 
+<h2> Hi, I'm Jonatas. nice to see you here </h2> 
 
 <img width="35%" align="right" alt="Development" src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" />
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- Adoro programação, ter ideias em mente e torná-las reais é incrível. Criação de jogos me despertou muito interesse em programação e uma época estudei C# e Unity Engine para criar um Protótipo de DDTank, o projeto começou em 2018 mas não teve continuidade após esse mesmo ano, porém, algum dia pretendo retomar e realizar um sonho de infância de construir um jogo 2D <br> 
+- I love programming, having ideas in mind and making them real is amazing. Creating games aroused a lot of interest in programming and at one time I studied C# and Unity Engine to create a DDTank Prototype, the project started in 2018 but did not continue after that same year, however, someday I intend to resume and fulfill a childhood dream to build a 2D game<br> 
 
-- Sou Estudante de Desenvolvimento Web na Trybe e concluindo o módulo de Front End algumas stacks conquistas foram: React (Componentes em classe e funcionais), Context Api, Redux, Jest, RTL, Metodologias Ágeis. Atualmente estudando em Back End: Docker, MySQL, Express, Node e outras ferramentas <br>
+- In my free time I love to enjoy it with people by my side, with friends hanging out with them around town or playing some games. I like series, anime, manga and books more focused on the theme of self-knowledge <br>
 
-- Nos tempos livres adoro aproveitar com pessoas ao meu lado, com amigos saindo com eles pela cidade ou jogando alguns games. Curto séries, animes, mangás e livros mais voltados na temática de autoconhecimento <br>
+<h3>I use it when developing</h3>
 
-<h3>Utilizo ao desenvolver</h3>
-
-Ferramentas <br>
-- Ubuntu, Git, Github, VSCode, Trello, HTML, CSS, JS
+Tools <br>
+- Ubuntu, Git, Github, VSCode, Trello, React, Redux, Express, Mysql, Docker
   
 <!-- Bibliotecas e Frameworks <br>
 - React, Redux, Jest, RTL -->
   
-Aprendendo no momento   
-- Docker, Mysql, Express, Node, Sequelize
+Learning in the moment 
+- Typescript with React and Express
 <br/>
   
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasqueirozlima&theme=buefy&show_icons=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasqueirozlima&theme=buefy&layout=compact" /> -->
-</a>
-
 <br/>
 
-<h3> 🤝🏻 &nbsp;Quer se conectar? Fique a vontade, alguns meios de contatos logo abaixo XD </h3>
+<h3> 🤝🏻 &nbsp;Want to connect? Feel free to contact below XD</h3>
 
 <!-- <p align="center"> -->
 <a href="https://www.linkedin.com/in/jonatasqueirozlima//"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
