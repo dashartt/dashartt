@@ -1,39 +1,27 @@
-# Oi, eu sou Jonatas. Bom te ver aqui
+### Hello 👋
 
-<img width="35%" align="right" alt="Development" src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" />
+##### Desenvolvedor fullstack web com meta de construir minha carreira em programação ⚡.
 
-## Sobre mim  👨🏻‍💻 &nbsp;
+##### NOW
 
-- Adoro programar. Criar jogos despertou muito interesse em programação e uma vez estudei C# e Unity Engine para criar um Protótipo DDTank, o projeto começou em 2018 mas não continuou depois desse mesmo ano, porém, um dia pretendo retomar e construí-lo<br> 
+- ✨ Se aventurando em codar os desafios técnicos disponíveis no repositório: [CollabCodeTech
+/
+frontend-challenges](https://github.com/CollabCodeTech/frontend-challenges);
+- 🇵🇹 Trabalhando em aumentar meus projetos em meu [Portfolio](https://portfolio-fm1oz11fy-jonatasqueirozlima.vercel.app/): ";
+- 🍑 Buscando melhorar meus códigos em  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> e se aprofundando em <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-- No meu tempo livre adoro curtir com as pessoas ao meu lado, com os amigos saindo com eles pela cidade ou jogando alguns jogos. Gosto de séries, animes, mangás e livros mais focados na temática do autoconhecimento<br>
+##### BIO
 
-## Minhas ferramentas:
-<div style="display: inline_block">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="40" width="50" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">  
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
-</div>
+- 🏢 Atualmente trabalhando em minha carreira, com meta de fazer parte de algum time de desenvolvimento 
+- ⚙️ Minhas stacks:
+  - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
+- 💬 Me empolgo falando sobre: programação, animes, jogos e reflexões da vida 😃
+- ⚡️ Fun fact: gosto bastante de contribuir em outros códigos, me dá um alô que vou todo empolgado par ajudar e bater um papo, na [Trybe](https://www.betrybe.com/) vivi bastante disso e outros momentos incríveis ⚡
+- 🌍 Adoro acompanhar os posts e novidades em [DEV.to](https://dev.to/) e [Medium](https://medium.com/)
+- 🌱 Desenvolvimento de jogos despertou em mim o brilho nos olhos em programação, uma época estudei e tive como mantenho a meta de construir um jogo semelhante a DDTank que seja F2P, diferente do triste rumo que DDTank seguiu
 
-## Aprendendo no momento:
-<div style="display: inline_block">
-  <img align="center" alt="Mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-</div>
- 
 
-## &nbsp;Gostaria de entrar em contato? Fique a vontade 🤝🏻
+## &nbsp;Gostaria de entrar em contato? Vamos conversar! 😄
 
-<!-- <p align="center"> -->
 <a href="https://www.linkedin.com/in/jonatasqueirozlima//"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:joqlima5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<!-- </p> -->
