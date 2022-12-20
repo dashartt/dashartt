@@ -2,13 +2,21 @@
 
 ##### Desenvolvedor fullstack web com meta de construir minha carreira em programação ⚡.
 
+ <img width="100%" src="https://64.media.tumblr.com/e4a25a0413e8af1e9ea3cfa2686c7a15/tumblr_nln149FouR1snc5kxo1_400.gifv" />
+ 
+</div>
+
+---
+
 ##### NOW
 
 - ✨ Se aventurando em codar os desafios técnicos disponíveis no repositório: [CollabCodeTech
 /
-frontend-challenges](https://github.com/CollabCodeTech/frontend-challenges);
-- 🇵🇹 Trabalhando em aumentar meus projetos em meu [Portfolio](https://portfolio-fm1oz11fy-jonatasqueirozlima.vercel.app/): ";
-- 🍑 Buscando melhorar meus códigos em  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> e se aprofundando em <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+frontend-challenges](https://github.com/CollabCodeTech/frontend-challenges)
+- 🌍 Trabalhando em aumentar meus projetos em meu [Portfolio](https://portfolio-zeta-three-89.vercel.app/)
+- 🍑 Buscando melhorar meus códigos em React c/ Typescript e TailwindCSS
+
+---
 
 ##### BIO
 
@@ -20,6 +28,7 @@ frontend-challenges](https://github.com/CollabCodeTech/frontend-challenges);
 - 🌍 Adoro acompanhar os posts e novidades em [DEV.to](https://dev.to/) e [Medium](https://medium.com/)
 - 🌱 Desenvolvimento de jogos despertou em mim o brilho nos olhos em programação, uma época estudei e tive como mantenho a meta de construir um jogo semelhante a DDTank que seja F2P, diferente do triste rumo que DDTank seguiu
 
+---
 
 ## &nbsp;Gostaria de entrar em contato? Vamos conversar! 😄
 
