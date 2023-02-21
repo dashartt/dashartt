@@ -10,7 +10,7 @@
 
 ##### NOW
 
-- ✨ Se aventurando em codar os desafios técnicos disponíveis no repositório: [CollabCodeTech
+- ✨ Desenvolvendo uma [aplicação](https://macacoloucopizzaria.vercel.app/) para uma pizzaria delivery em Ilha Solteira-SP
 /
 frontend-challenges](https://github.com/CollabCodeTech/frontend-challenges)
 - 🌍 Trabalhando em aumentar meus projetos em meu [Portfolio](https://portfolio-zeta-three-89.vercel.app/)
