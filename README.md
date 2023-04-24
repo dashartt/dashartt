@@ -8,19 +8,10 @@
 
 ---
 
-##### NOW
-
-- ✨ Desenvolvendo uma [aplicação](https://macacoloucopizzaria.vercel.app/) para uma pizzaria delivery em Ilha Solteira-SP
-- 🌍 Trabalhando em aumentar meus projetos em meu [Portfolio](https://portfolio-zeta-three-89.vercel.app/)
-- 🍑 Buscando melhorar meus códigos em React c/ Typescript e TailwindCSS
-
----
-
 ##### BIO
 
 - 🏢 Atualmente trabalhando em minha carreira, com meta de fazer parte de algum time de desenvolvimento 
-- ⚙️ Minhas stacks:
-  - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
+- ⚙️ Minhas stacks: React, Nextjs, TailwindCSS, ChakraUI, Typescript, Express, Mongoose, Prisma, Jest, Mocha Chai Sinon  
 - 💬 Me empolgo falando sobre: programação, animes, jogos e reflexões da vida 😃
 - ⚡️ Fun fact: gosto bastante de contribuir em outros códigos, me dá um alô que vou todo empolgado par ajudar e bater um papo, na [Trybe](https://www.betrybe.com/) vivi bastante disso e outros momentos incríveis ⚡
 - 🌍 Adoro acompanhar os posts e novidades em [DEV.to](https://dev.to/) e [Medium](https://medium.com/)
@@ -30,5 +21,5 @@
 
 ## &nbsp;Gostaria de entrar em contato? Vamos conversar! 😄
 
-<a href="https://www.linkedin.com/in/jonatasqueirozlima//"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dashartt//"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:joqlima5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
